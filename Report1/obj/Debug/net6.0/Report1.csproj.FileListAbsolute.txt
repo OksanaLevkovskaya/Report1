@@ -1,0 +1,15 @@
+C:\Users\OksanaLevkovskaya\Desktop\Hometask1\Report1\Report1\bin\Debug\net6.0\Report1.exe
+C:\Users\OksanaLevkovskaya\Desktop\Hometask1\Report1\Report1\bin\Debug\net6.0\Report1.deps.json
+C:\Users\OksanaLevkovskaya\Desktop\Hometask1\Report1\Report1\bin\Debug\net6.0\Report1.runtimeconfig.json
+C:\Users\OksanaLevkovskaya\Desktop\Hometask1\Report1\Report1\bin\Debug\net6.0\Report1.dll
+C:\Users\OksanaLevkovskaya\Desktop\Hometask1\Report1\Report1\bin\Debug\net6.0\ref\Report1.dll
+C:\Users\OksanaLevkovskaya\Desktop\Hometask1\Report1\Report1\bin\Debug\net6.0\Report1.pdb
+C:\Users\OksanaLevkovskaya\Desktop\Hometask1\Report1\Report1\obj\Debug\net6.0\Report1.csproj.AssemblyReference.cache
+C:\Users\OksanaLevkovskaya\Desktop\Hometask1\Report1\Report1\obj\Debug\net6.0\Report1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OksanaLevkovskaya\Desktop\Hometask1\Report1\Report1\obj\Debug\net6.0\Report1.AssemblyInfoInputs.cache
+C:\Users\OksanaLevkovskaya\Desktop\Hometask1\Report1\Report1\obj\Debug\net6.0\Report1.AssemblyInfo.cs
+C:\Users\OksanaLevkovskaya\Desktop\Hometask1\Report1\Report1\obj\Debug\net6.0\Report1.csproj.CoreCompileInputs.cache
+C:\Users\OksanaLevkovskaya\Desktop\Hometask1\Report1\Report1\obj\Debug\net6.0\Report1.dll
+C:\Users\OksanaLevkovskaya\Desktop\Hometask1\Report1\Report1\obj\Debug\net6.0\ref\Report1.dll
+C:\Users\OksanaLevkovskaya\Desktop\Hometask1\Report1\Report1\obj\Debug\net6.0\Report1.pdb
+C:\Users\OksanaLevkovskaya\Desktop\Hometask1\Report1\Report1\obj\Debug\net6.0\Report1.genruntimeconfig.cache
