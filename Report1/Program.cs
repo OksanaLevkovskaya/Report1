@@ -38,7 +38,7 @@ namespace Hometask_1
 
             }*/
 
-
+            //comment//
 
             foreach (int z in numbersArray)
             {
